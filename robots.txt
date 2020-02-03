@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iaxaicahso.olalladiaz.net/sitemap.xml
